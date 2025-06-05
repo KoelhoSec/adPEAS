@@ -4,7 +4,7 @@ from distutils.util import convert_path
 setup(name='adPEAS',
       version="1.1.0",
       description='winPEAS, but for Active Directory',
-      url='https://github.com/ajm4n/adPEAS',
+      url='https://github.com/KoelhoSec/adPEAS',
       author='AJ Hammond',
       author_email='aj.hammond@praetorian.com',
       license='MIT',
