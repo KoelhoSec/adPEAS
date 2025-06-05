@@ -15,7 +15,7 @@ options:
                         Domain Controller IP or hostname.
   -s scope.txt, --scope scope.txt
                         Supply a scope.txt file.
-  -ns, --no-bloodhound
+  -nb, --no-bloodhound
                         Run adPEAS without running Bloodhound.
   -nc, --no-certipy
                         Run adPEAS without running Certipy. 
