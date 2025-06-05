@@ -25,13 +25,13 @@ options:
 Install `adPEAS` and its dependencies
 
 ```bash
-pipx install --include-deps git+https://github.com/ajm4n/adPEAS
+pipx install --include-deps git+https://github.com/KoelhoSec/adPEAS
 ```
 
 # Example Usage
 
 ```
-adPEAS -u ajman -p 'DomainAdmin123!' -d snaplabs.local -i 10.0.0.86
+adPEAS -u KoelhoSec -p 'DomainAdmin123!' -d snaplabs.local -i 10.0.0.86
 ```
 
 ![image](https://github.com/ajm4n/adPEAS/assets/60402150/cb8970ff-0308-4750-8cfe-e4d00b31b553)
